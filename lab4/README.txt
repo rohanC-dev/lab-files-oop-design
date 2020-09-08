@@ -1,0 +1,1 @@
+The record.txt will be created inside the Record folder.
